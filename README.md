@@ -105,8 +105,8 @@ MySQL 是一个开源的关系型数据库管理系统，广泛应用于Web开�
 - **查询数据**：
 
   ```sql
-  SELECT * FROM users;  -- 查询所有列
-  SELECT name, age FROM users WHERE age > 20;  -- 查询特定列和条件
+  SELECT * FROM users;  --- 查询所有列
+  SELECT name, age FROM users WHERE age > 20;  --- 查询特定列和条件
   ```
 
 - **更新数据**：
